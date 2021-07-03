@@ -1,7 +1,7 @@
 # happy_face
 
 ### Terminal install:
-```shell
+```
 pip install happy_face
 ```
 

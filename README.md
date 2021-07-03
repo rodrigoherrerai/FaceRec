@@ -1,11 +1,11 @@
 # FaceRec
 
-### install
+### install:
 ```
 pip install FaceRec
 ```
 
-### import 
+### import:
 
 ```
 from FaceRec.FaceRec import FaceRec

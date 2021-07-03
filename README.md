@@ -2,7 +2,7 @@
 
 ### Terminal install:
 ```diff
-- text in red
+- text 
 pip install happy_face
 ```
 

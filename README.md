@@ -1,7 +1,7 @@
 # happy_face
 
 ### Terminal install:
-```diff
+```shell
 pip install happy_face
 ```
 

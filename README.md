@@ -17,10 +17,11 @@ from FaceRec.FaceRec import FaceRec
 
 ### Dependencies: 
 ## You need to have the following packages installed:
-* face_recognition
-* numpy
-* PIL
-* os
+* FaceRec -- pip install FaceRec --
+* face_recognition -- pip install face_recognition --
+* numpy -- pip install numpy --
+* PIL -- pip install Pillow --
+* dlib -- pip install dlib --
 
 ### Brief Explanation: 
 #### You just need to create a variable, instantiate it with FaceRec and fill three params:

@@ -33,9 +33,9 @@ tiger_woods = FaceRec(known_person_path_file= '/Users/Desktop/tiger.png',
 
 #### Functions:
 * display_known_im() -- will display the known_person_path_file image
-*detects_known_face() -- will detect the face of the known person
-*detects_unknown_faces() -- will detect all the faces of the images provided in the unknown_images_path_file folder
-*recognize_faces() -- Will recognize either the person is you (or whoever you provided) or a stranger
+* detects_known_face() -- will detect the face of the known person
+* detects_unknown_faces() -- will detect all the faces of the images provided in the unknown_images_path_file folder
+* recognize_faces() -- Will recognize either the person is you (or whoever you provided) or a stranger
 ### Sample Code:
 ```
 tiger_woods.display_known_im() #Will display the image

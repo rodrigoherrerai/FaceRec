@@ -90,10 +90,6 @@ class FaceRec:
 
 
 
-tigre = FaceRec(known_person_path_file='/Users/rodrigoherrera/Desktop/known_people/tiger.png', 
-                                unknown_images_path_file = '/Users/rodrigoherrera/Desktop/unknown_pictures', known_name='Tiger')
 
-
-tigre.recognize_faces()
 
 

@@ -60,7 +60,7 @@ from happy_face.happy_face import HappyFace
 tiger_woods = HappyFace(known_person_path_file='/Users/Desktop/tiger.png', 
                         unknown_images_path_file='/Users/Desktop/unknown_pictures', 
                         known_name='Tiger Woods')
-
+```
 
 
 ### OUTPUT:

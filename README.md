@@ -1,4 +1,4 @@
-# FaceRec
+# happy_face
 
 ### Terminal install:
 ```

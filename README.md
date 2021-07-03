@@ -1,6 +1,6 @@
 # FaceRec
 
-### install:
+### Terminal install:
 ```
 pip install FaceRec
 ```

@@ -47,6 +47,9 @@ tiger_woods.detects_unknown_faces() #Will detect all the faces provided of the u
 tiger_woods.recognize_faces() -- # Will recognize either the person is tiger woods or a stranger
 
 ```
+
+
+### EXAMPLE:
 ![This is a alt text.](/)
 ![This is a alt text.](/)
 ![This is a alt text.](/)

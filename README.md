@@ -39,7 +39,7 @@ tiger_woods = HappyFace(known_person_path_file= '/Users/Desktop/tiger.png',
 * detects_unknown_faces() -- will detect all the faces of the images provided in the unknown_images_path_file folder
 * recognize_faces() -- Will recognize either the person is you (or whoever you provided) or a stranger
 ### Sample Code:
-```
+```python
 tiger_woods.display_known_im() #Will display the image
 
 tiger_woods.detects_known_face() #Will detect the face of (in this case) Tiger Woods

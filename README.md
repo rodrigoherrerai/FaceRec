@@ -27,7 +27,7 @@ from happy_face.happy_face import HappyFace
 #### IMPORTANT!!! Make sure your files (folders or pictures) DO NOT START WITH A DOT --> . <---, if they do, the application will have troubles to execute, this is because sometimes there are hidden files and they start with a dot. This was taken into consideration so the application runs smoothly, just make sure that your folders and files (images) do NOT start with a dot ---> . <---
 
 ### Sample Code:
-```
+```python
 tiger_woods = HappyFace(known_person_path_file= '/Users/Desktop/tiger.png', 
                     unknown_images_path_file = '/Users/Desktop/unknown_pictures', 
                         known_name= 'Tiger Woods')

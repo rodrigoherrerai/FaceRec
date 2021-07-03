@@ -2,7 +2,7 @@
 
 ### Terminal install:
 ```diff
-- pip install happy_face
+pip install happy_face
 ```
 
 ### Import:

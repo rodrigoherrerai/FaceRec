@@ -55,6 +55,8 @@ tiger_woods.recognize_faces() -- # Will recognize either the person is tiger woo
 ### OUTPUT:
 
 <img src="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/output1.png">
+<img src="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/output2.png">
+<img src = "https://github.com/rodrigoherrerai/FaceRec/blob/main/images/output.png">
 
 
 

@@ -12,7 +12,7 @@ from happy_face import happy_face
 ```
 ## Introduction:
 #### happy_face was built on many different amazing libraries, mainly face_recognition from Adam Geitgey, dlib and many more. I do not take any accomplishment in doing this, it is just an easy way of implementing face_recognition for people that are starting.
-#### The main purpose of FaceRec is to show the magic of deep learning to people that are just starting with programming.
+#### The main purpose of happy_face is to show the magic of deep learning to people that are just starting with programming.
 #### It has few functions, but it is extremely easy to use, this motivates people that are just starting because in python you do not see visual results until later in the journey, this can sometimes kill the creative energy.
 
 

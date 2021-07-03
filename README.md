@@ -50,7 +50,8 @@ tiger_woods.recognize_faces() -- # Will recognize either the person is tiger woo
 
 
 ### EXAMPLE:
-![This is a alt text.](/images/output.png | width=80)
+<img src="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/output.png" width= "50" height="50">
+![This is a alt text.]()
 ![This is a alt text.](/)
 ![This is a alt text.](/)
 

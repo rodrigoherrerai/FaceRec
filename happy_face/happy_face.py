@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image, ImageDraw
 import os
 
-class FaceRec:
+class HappyFace:
 
     def __init__(self, known_person_path_file, unknown_images_path_file, known_name=None):
         self.known_person_path_file = known_person_path_file

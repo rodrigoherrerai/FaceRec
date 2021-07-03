@@ -15,13 +15,7 @@ from FaceRec.FaceRec import FaceRec
 #### The main purpose of FaceRec is to show the magic of deep learning to people that are just starting with programming.
 #### It has few functions, but it is extremely easy to use, this motivates people that are just starting because in python you do not see visual results until later in the journey, this can sometimes kill the creative energy.
 
-### Dependencies: 
-## You need to have the following packages installed:
-* FaceRec -- pip install FaceRec --
-* face_recognition -- pip install face_recognition --
-* numpy -- pip install numpy --
-* PIL -- pip install Pillow --
-* dlib -- pip install dlib --
+
 
 ### Brief Explanation: 
 #### You just need to create a variable, instantiate it with FaceRec and fill three params:

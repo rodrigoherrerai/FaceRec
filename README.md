@@ -53,7 +53,15 @@ tiger_woods.recognize_faces() -- # Will recognize either the person is tiger woo
 
 ### EXAMPLE:
 <img src ="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/picandfolder.png" width="450" height="300"><img src ="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/inside.png">
-<img src="https://github.com/rodrigoherrerai/FaceRec/blob/main/images/recognize_faces.png">
+```python
+from happy_face.happy_face import HappyFace
+
+# Instantiate a variable to HappyFace and provide YOUR path file to the image and folder
+tiger_woods = HappyFace(known_person_path_file='/Users/Desktop/tiger.png', 
+                        unknown_images_path_file='/Users/Desktop/unknown_pictures', 
+                        known_name='Tiger Woods')
+
+
 
 ### OUTPUT:
 

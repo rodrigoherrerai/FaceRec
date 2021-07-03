@@ -5,7 +5,7 @@
 pip install happy_face
 ```
 
-### import:
+### Import:
 
 ```
 from happy_face.happy_face import HappyFace

@@ -8,7 +8,7 @@ pip install happy_face
 ### import:
 
 ```
-from happy_face import happy_face
+from happy_face.happy_face import HappyFace
 ```
 ## Introduction:
 #### happy_face was built on many different amazing libraries, mainly face_recognition from Adam Geitgey, dlib and many more. I do not take any accomplishment in doing this, it is just an easy way of implementing face_recognition for people that are starting.
@@ -18,7 +18,7 @@ from happy_face import happy_face
 
 
 ### Brief Explanation: 
-#### You just need to create a variable, instantiate it with happy_face and fill three params:
+#### You just need to create a variable, instantiate it with HappyFace and fill three params:
 * known_person_path_file: is the path to the SINGLE image of the face that you want to be recognized. 
 * unknown_images_path_file: here is the path to the FOLDER where you have all the other images that you want to recognize.
 * known_name : The name of the known_person_path_file, this will display Found U! If left empty.
@@ -27,7 +27,7 @@ from happy_face import happy_face
 
 ### Sample Code:
 ```
-tiger_woods = happy_face(known_person_path_file= '/Users/Desktop/tiger.png', 
+tiger_woods = HappyFace(known_person_path_file= '/Users/Desktop/tiger.png', 
                     unknown_images_path_file = '/Users/Desktop/unknown_pictures', 
                         known_name= 'Tiger Woods')
 ```

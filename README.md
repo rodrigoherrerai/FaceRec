@@ -2,23 +2,23 @@
 
 ### Terminal install:
 ```
-pip install FaceRec
+pip install happy_face
 ```
 
 ### import:
 
 ```
-from FaceRec.FaceRec import FaceRec
+from happy_face import happy_face
 ```
 ## Introduction:
-#### FaceRec was built on many different amazing libraries, mainly face_recognition from Adam Geitgey, dlib and many more. I do not take any accomplishment in doing this, it is just an easy way of implementing face_recognition for people that are starting.
+#### happy_face was built on many different amazing libraries, mainly face_recognition from Adam Geitgey, dlib and many more. I do not take any accomplishment in doing this, it is just an easy way of implementing face_recognition for people that are starting.
 #### The main purpose of FaceRec is to show the magic of deep learning to people that are just starting with programming.
 #### It has few functions, but it is extremely easy to use, this motivates people that are just starting because in python you do not see visual results until later in the journey, this can sometimes kill the creative energy.
 
 
 
 ### Brief Explanation: 
-#### You just need to create a variable, instantiate it with FaceRec and fill three params:
+#### You just need to create a variable, instantiate it with happy_face and fill three params:
 * known_person_path_file: is the path to the SINGLE image of the face that you want to be recognized. 
 * unknown_images_path_file: here is the path to the FOLDER where you have all the other images that you want to recognize.
 * known_name : The name of the known_person_path_file, this will display Found U! If left empty.
@@ -27,7 +27,7 @@ from FaceRec.FaceRec import FaceRec
 
 ### Sample Code:
 ```
-tiger_woods = FaceRec(known_person_path_file= '/Users/Desktop/tiger.png', 
+tiger_woods = happy_face(known_person_path_file= '/Users/Desktop/tiger.png', 
                     unknown_images_path_file = '/Users/Desktop/unknown_pictures', 
                         known_name= 'Tiger Woods')
 ```

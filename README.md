@@ -9,7 +9,7 @@ pip install happy_face
 
 ```
 from happy_face.happy_face import HappyFace
-print('hello')
+
 ```
 ## Introduction:
 #### happy_face was built on many different amazing libraries, mainly face_recognition from Adam Geitgey, dlib and many more. I do not take any accomplishment in doing this, it is just an easy way of implementing face_recognition for people that are starting.
